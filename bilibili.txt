@@ -3,7 +3,7 @@ bilibili.com##.bilibili-player-video-danmaku
 bilibili.com##.bilibili-player-video-bottom-area
 bilibili.com###danmukuBox
 !弹幕、视频下方弹幕条和右侧弹幕盒子隐藏
-bilibili.com###click_review_publish
+bilibili.com##.click_review_publish
 bilibili.com###paybar_module
 bilibili.com###comment_module
 bilibili.com###sponsor_module
