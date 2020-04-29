@@ -1,0 +1,12 @@
+bilibili.com##.bilibili-player-video-bottom-area
+bilibili.com###click_review_publish
+bilibili.com###paybar_module
+bilibili.com###comment_module
+bilibili.com###sponsor_module
+bilibili.com###review_module
+bilibili.com###recom_module
+bilibili.com###comment
+bilibili.com###live_recommand_report
+bilibili.com###slide_ad
+bilibili.com###reco_list
+bilibili.com###danmukuBox
