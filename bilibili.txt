@@ -14,7 +14,8 @@ bilibili.com###review_module
 bilibili.com###recom_module
 !番剧右上我要承包，下面评分、评论、赞助、点评，右边视频推荐
 bilibili.com###comment
+bilibili.com###activity_vote
 bilibili.com###live_recommand_report
 bilibili.com###slide_ad
 bilibili.com###reco_list
-!视频下边评论，右边直播推荐、广告、视频推荐
+!视频下边评论、活动投票，右边直播推荐、广告、视频推荐
