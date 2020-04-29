@@ -7,7 +7,7 @@ bilibili.com##.more
 bilibili.com##.appeal-text
 !稿件投诉和更多
 bilibili.com###paybar_module
-bilibili.com###reco_list
+bilibili.com###btn-rating
 bilibili.com###comment_module
 bilibili.com###sponsor_module
 bilibili.com###review_module
