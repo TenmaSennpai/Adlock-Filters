@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 bilibili.com##.bilibili-player-video-bottom-area
 bilibili.com###click_review_publish
 bilibili.com###paybar_module
