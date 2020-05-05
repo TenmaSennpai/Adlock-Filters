@@ -1,0 +1,28 @@
+[Adblock Plus 2.0]
+! Version: 202005051754
+! Title: bilibili.com - with barrage
+! Homepage: https://github.com/TenmaSennpai/Adlock-Filters
+!--------------------
+bilibili.com##.more
+bilibili.com##.appeal-text
+!（通用）稿件投诉和更多
+!--------------------
+bilibili.com###paybar_module
+bilibili.com###media_module>.media-right>.media-tool-bar>.btn-rating
+bilibili.com###comment_module
+bilibili.com###sponsor_module
+bilibili.com###review_module
+bilibili.com###recom_module
+!番剧播放界面右上我要承包，下面评分功能按钮（位置较深，需要复合选择器）、评论、赞助、点评，右边视频推荐
+!--------------------
+bilibili.com##.media-tab-nav
+bilibili.com##.bangumi-media
+!番剧详情界面的功能导航栏、点评窗口
+!--------------------
+bilibili.com###comment
+bilibili.com###activity_vote
+bilibili.com###live_recommand_report
+bilibili.com###slide_ad
+bilibili.com###reco_list
+!视频下边评论、活动投票，右边直播推荐、广告、视频推荐
+!--------------------
