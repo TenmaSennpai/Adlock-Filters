@@ -1,3 +1,0 @@
-[Adblock Plus 2.0]
-baidu.com###content_right
-!百度搜索右侧栏
