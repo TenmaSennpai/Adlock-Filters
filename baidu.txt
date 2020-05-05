@@ -1,0 +1,6 @@
+[Adblock Plus 2.0]
+! Version: 202005051753
+! Title: baidu.com
+! Homepage: https://github.com/TenmaSennpai/Adlock-Filters
+baidu.com###content_right
+!百度搜索右侧栏
