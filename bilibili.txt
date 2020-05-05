@@ -3,6 +3,8 @@ bilibili.com##.bilibili-player-video-danmaku
 bilibili.com##.bilibili-player-video-bottom-area
 bilibili.com###danmukuBox
 !弹幕、视频下方弹幕条和右侧弹幕盒子隐藏
+bilibili.com##.van-danmu
+!番剧首页窗口预览弹幕
 bilibili.com##.more
 bilibili.com##.appeal-text
 !稿件投诉和更多
