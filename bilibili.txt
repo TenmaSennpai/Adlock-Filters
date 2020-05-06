@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202005051751
+! Version: 202005061809
 ! Title: bilibili.com
 ! Homepage: https://github.com/TenmaSennpai/Adlock-Filters
 !--------------------
@@ -13,7 +13,9 @@ bilibili.com##.van-danmu
 !--------------------
 bilibili.com##.more
 bilibili.com##.appeal-text
-!（通用）稿件投诉和更多
+bilibili.com##.bilibili-player-electric-panel
+bilibili.com##.bilibili-player-ending-panel
+!（通用）稿件投诉、更多，视频播放器播放完成后的充电、视频推荐
 !--------------------
 bilibili.com###paybar_module
 !bilibili.com###media_module>.media-right>.media-tool-bar>.btn-rating
