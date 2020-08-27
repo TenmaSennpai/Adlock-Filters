@@ -2,9 +2,10 @@
 ! Version: 202005051753
 ! Title: baidu.com
 ! Homepage: https://github.com/TenmaSennpai/Adlock-Filters
-! baidu.com
+! ------ baidu.com ------
 baidu.com###content_right
 baidu.com##.cr-offset
 ! 百度搜索右侧栏
-! youtube.com
-baidu.com###secondary
+! ------ youtube.com ------
+! youtube侧边栏
+youtube.com###secondary
