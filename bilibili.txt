@@ -29,8 +29,8 @@ bilibili.com###right-bottom-banner
 !--------------------
 bilibili.com##.media-tab-nav
 bilibili.com##.bangumi-media
-bilibili.com##.internationalHeader
-bilibili.com##.toolbar_module
+bilibili.com###internationalHeader
+bilibili.com###toolbar_module
 !番剧详情界面的功能导航栏、点评窗口、顶部、投币栏
 !--------------------
 bilibili.com###comment
