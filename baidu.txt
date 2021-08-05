@@ -9,3 +9,4 @@ baidu.com##.cr-offset
 ! ------ youtube.com ------
 ! youtube侧边栏
 youtube.com###secondary
+youtube.com###related
