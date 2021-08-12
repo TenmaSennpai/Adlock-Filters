@@ -38,6 +38,6 @@ bilibili.com###slide_ad
 ###reco_list
 !视频下边评论、活动投票，右边直播推荐、广告、视频推荐
 !--------------------
-bilibili.com##.bpx-player-dm-root
+bilibili.com##.bpx-player-sending-area
 !弹幕开关
 !--------------------
