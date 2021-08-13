@@ -6,7 +6,3 @@
 baidu.com###content_right
 baidu.com##.cr-offset
 ! 百度搜索右侧栏
-! ------ youtube.com ------
-! youtube侧边栏
-youtube.com###secondary
-youtube.com###related
