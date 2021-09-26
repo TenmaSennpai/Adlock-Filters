@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 202005051753
-! Title: baidu.com
+! Title: youtube.com
 ! Homepage: https://github.com/TenmaSennpai/Adlock-Filters
 ! ------ youtube.com ------
 ! youtube侧边栏
