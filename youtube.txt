@@ -8,5 +8,5 @@ youtube.com###secondary
 youtube.com###related
 ! ------ youtube.com ------
 ! youtube评论区
-youtube.com###sections
+youtube.com###secondary
 youtube.com##.style-scope.ytd-comments
