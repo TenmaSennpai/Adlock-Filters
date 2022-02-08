@@ -4,9 +4,9 @@
 ! Homepage: https://github.com/TenmaSennpai/Adlock-Filters
 ! ------ youtube.com ------
 ! youtube侧边栏
-youtube.com###secondary
 youtube.com###related
+youtube.com###chat
 ! ------ youtube.com ------
 ! youtube评论区
-youtube.com###secondary
-youtube.com##.style-scope.ytd-comments
+youtube.com##.ytd-comments
+
