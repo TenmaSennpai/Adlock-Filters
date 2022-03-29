@@ -12,6 +12,6 @@ baidu.com###bottom_layer
 baidu.com###s_top_wrap
 baidu.com###s-top-left
 baidu.com###u1
-！百度首页
+! 百度首页
 tieba.baidu.com##.topic_list_hot.topic_list.j_topic_toplist
-！贴吧热搜
+! 贴吧热搜
