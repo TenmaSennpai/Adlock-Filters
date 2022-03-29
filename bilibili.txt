@@ -11,6 +11,7 @@ bilibili.com###danmukuBox
 !--------------------
 bilibili.com##.danmu-module
 bilibili.com##.van-danmu
+bilibili.com##.fake-danmu
 !番剧首页窗口预览弹幕
 !--------------------
 bilibili.com##.more
@@ -44,6 +45,4 @@ bilibili.com###nav_searchform
 bilibili.com##.bpx-player-sending-area
 !搜索框、弹幕开关
 !--------------------
-bilibili.com##.center-search__bar
-!新版本搜索框
-!--------------------
+
