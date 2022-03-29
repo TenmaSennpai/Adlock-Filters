@@ -6,3 +6,12 @@
 baidu.com###content_right
 baidu.com##.cr-offset
 ! 百度搜索右侧栏
+baidu.com###s-hotsearch-wrapper
+baidu.com###s_side_wrapper
+baidu.com###bottom_layer
+baidu.com###s_top_wrap
+baidu.com###s-top-left
+baidu.com###u1
+！百度首页
+tieba.baidu.com##.topic_list_hot.topic_list.j_topic_toplist
+！贴吧热搜
