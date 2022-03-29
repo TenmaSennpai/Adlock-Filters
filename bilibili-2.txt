@@ -30,6 +30,6 @@ bilibili.com###slide_ad
 bilibili.com###reco_list
 !视频下边评论、活动投票，右边直播推荐、广告、视频推荐
 !--------------------
-bilibili.com###nav_searchform
+bilibili.com###nav-searchform
 !搜索框
 !--------------------
