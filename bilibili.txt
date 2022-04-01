@@ -44,6 +44,7 @@ bilibili.com###slide_ad
 bilibili.com##.nav-search-box
 bilibili.com###nav-searchform
 bilibili.com###nav_searchform
+bilibili.com##.search-panel.search-panel-popover
 bilibili.com##.bpx-player-sending-area
 !搜索框、弹幕开关
 !--------------------
