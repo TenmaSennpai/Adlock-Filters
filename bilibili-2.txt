@@ -31,5 +31,7 @@ bilibili.com###reco_list
 !视频下边评论、活动投票，右边直播推荐、广告、视频推荐
 !--------------------
 bilibili.com##.nav-search-box
+bilibili.com###nav-searchform
+bilibili.com###nav_searchform
 !搜索框
 !--------------------
