@@ -33,5 +33,6 @@ bilibili.com###reco_list
 bilibili.com##.nav-search-box
 bilibili.com###nav-searchform
 bilibili.com###nav_searchform
+bilibili.com##.search-panel.search-panel-popover
 !搜索框
 !--------------------
