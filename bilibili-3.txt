@@ -11,13 +11,12 @@ bilibili.com##.bilibili-player-ending-panel
 !--------------------
 bilibili.com###paybar_module
 !bilibili.com###media_module>.media-right>.media-tool-bar>.btn-rating
-bilibili.com###comment_module
 bilibili.com###sponsor_module
 bilibili.com###review_module
 bilibili.com###recom_module
 bilibili.com##.rcmd-list
 bilibili.com###right-bottom-banner
-!番剧播放界面右上我要承包，下面评论、赞助、点评窗口，右边视频推荐
+!番剧播放界面右上我要承包，下面赞助、点评窗口，右边视频推荐
 !--------------------
 bilibili.com##.media-tab-nav
 bilibili.com##.bangumi-media
