@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 20220831011636
-! Title: bilibili.com - with barrage
+! Title: bilibili.com - with barrage & comment
 ! Homepage: https://github.com/TenmaSennpai/Adlock-Filters
 !--------------------
 bilibili.com##.more
