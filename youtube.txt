@@ -5,7 +5,7 @@
 ! ------ youtube.com ------
 ! youtube侧边栏
 youtube.com###related
-youtube.com###chat
+! youtube.com###chat
 ! ------ youtube.com ------
 ! youtube评论区
 ! youtube.com##.ytd-comments
