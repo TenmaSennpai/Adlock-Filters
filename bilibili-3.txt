@@ -1,40 +1,50 @@
 [Adblock Plus 2.0]
-! Version: 20220831011636
-! Title: bilibili.com - with barrage & comment
+! Version:202304040130
+! Title: bilibili.com
 ! Homepage: https://github.com/TenmaSennpai/Adlock-Filters
+! Description: 配合油猴脚本使用
 !--------------------
-bilibili.com##.more
+bilibili.com##.bilibili-player-video-danmaku
+bilibili.com##.bilibili-player-video-bottom-area
+bilibili.com##.bpx-player-row-dm-wrap
+!弹幕、视频下方弹幕条隐藏
+!--------------------
+bilibili.com##.danmu-module
+bilibili.com##.van-danmu
+bilibili.com##.fake-danmu
+!番剧首页窗口预览弹幕
+!--------------------
 bilibili.com##.appeal-text
 bilibili.com##.bilibili-player-electric-panel
 bilibili.com##.bilibili-player-ending-panel
+www.bilibili.com##.bpx-player-ending-related
 !（通用）稿件投诉、更多，视频播放器播放完成后的充电、视频推荐
 !--------------------
 bilibili.com###paybar_module
 !bilibili.com###media_module>.media-right>.media-tool-bar>.btn-rating
+bilibili.com###comment_module
 bilibili.com###sponsor_module
 bilibili.com###review_module
 bilibili.com###recom_module
 bilibili.com##.rcmd-list
 bilibili.com###right-bottom-banner
-!番剧播放界面右上我要承包，下面赞助、点评窗口，右边视频推荐
+!番剧播放界面右上我要承包，下面评论、赞助、点评窗口，右边视频推荐
 !--------------------
 bilibili.com##.media-tab-nav
 bilibili.com##.bangumi-media
-bilibili.com###comment_module
-!番剧详情界面的功能导航栏、点评、评论窗口
+!番剧详情界面的功能导航栏、点评窗口
 !--------------------
 bilibili.com###activity_vote
 bilibili.com###live_recommand_report
 bilibili.com###slide_ad
 bilibili.com###reco_list
-bilibili.com###v_tag
-bilibili.com###bannerAd
-bilibili.com##.ad-report
+www.bilibili.com##.part-undefined.pop-live-small-mode
 !视频下边评论、活动投票，右边直播推荐、广告、视频推荐
 !--------------------
 bilibili.com##.nav-search-box
 bilibili.com###nav-searchform
 bilibili.com###nav_searchform
 bilibili.com##.search-panel.search-panel-popover
-!搜索框
+bilibili.com##.bpx-player-sending-area
+!搜索框、弹幕开关
 !--------------------
